@@ -1,0 +1,193 @@
+[
+  {
+    "name": "hydrating body lotion",
+    "price": 1999,
+    "image": "https://example.com/images/hydrating-body-lotion.jpg",
+    "fragrances": ["lavender", "vanilla", "rose"],
+    "brand": "NaturGlow",
+    "description": "This rich, hydrating body lotion leaves your skin soft and smooth all day long. Infused with natural oils and fragrances, it helps to restore moisture and improve skin texture. Suitable for all skin types.",
+    "category": "moisturizers"
+  },
+  {
+    "name": "exfoliating body scrub",
+    "price": 2499,
+    "image": "https://example.com/images/exfoliating-body-scrub.jpg",
+    "fragrances": ["citrus", "mint"],
+    "brand": "GlowEssence",
+    "description": "A revitalizing body scrub that gently exfoliates the skin, removing dead skin cells for a refreshed, glowing appearance. Formulated with natural exfoliants and essential oils for a spa-like experience at home.",
+    "category": "cleansers"
+  },
+  {
+    "name": "shea butter body cream",
+    "price": 2999,
+    "image": "https://example.com/images/shea-butter-body-cream.jpg",
+    "fragrances": ["shea", "cocoa butter"],
+    "brand": "SheaDelight",
+    "description": "An ultra-moisturizing body cream enriched with shea butter and cocoa butter to deeply nourish and hydrate dry skin. Perfect for those with sensitive or extra-dry skin, leaving a light, natural fragrance.",
+    "category": "body butters & lotions"
+  },
+  {
+    "name": "aloe vera after-sun gel",
+    "price": 1499,
+    "image": "https://example.com/images/aloe-vera-after-sun-gel.jpg",
+    "fragrances": ["aloe vera"],
+    "brand": "SunCare",
+    "description": "A soothing after-sun gel that calms and cools sun-exposed skin. Made with organic aloe vera, it helps reduce redness and irritation, providing instant relief from sunburns.",
+    "category": "face care"
+  },
+  {
+    "name": "vitamin C body serum",
+    "price": 3499,
+    "image": "https://example.com/images/vitamin-c-body-serum.jpg",
+    "fragrances": ["orange", "lemon"],
+    "brand": "GlowEssence",
+    "description": "Brighten your skin with this vitamin C body serum, designed to reduce dark spots and promote an even tone. Its refreshing citrus fragrance makes it perfect for daily use.",
+    "category": "serums"
+  },
+  {
+    "name": "cocoa butter hand cream",
+    "price": 1099,
+    "image": "https://example.com/images/cocoa-butter-hand-cream.jpg",
+    "fragrances": ["cocoa butter"],
+    "brand": "SheaDelight",
+    "description": "Deeply hydrating hand cream enriched with pure cocoa butter for intense moisture. The warm fragrance leaves hands feeling soft and smooth.",
+    "category": "body butters & lotions"
+  },
+  {
+    "name": "green tea face mist",
+    "price": 1799,
+    "image": "https://example.com/images/green-tea-face-mist.jpg",
+    "fragrances": ["green tea"],
+    "brand": "NaturGlow",
+    "description": "A refreshing face mist infused with green tea to hydrate and rejuvenate the skin. Its calming fragrance helps to reduce stress and improve focus.",
+    "category": "face care"
+  },
+  {
+    "name": "whipped shea body butter",
+    "price": 2599,
+    "image": "https://example.com/images/whipped-shea-body-butter.jpg",
+    "fragrances": ["shea", "honey"],
+    "brand": "SheaDelight",
+    "description": "Whipped shea butter blended with honey for maximum hydration and a luxurious feel. Perfect for dry skin and leaves a soft, natural fragrance.",
+    "category": "body butters & lotions"
+  },
+  {
+    "name": "sensitive skin body wash",
+    "price": 1999,
+    "image": "https://example.com/images/sensitive-skin-body-wash.jpg",
+    "fragrances": ["chamomile", "oat"],
+    "brand": "GlowEssence",
+    "description": "A gentle body wash formulated for sensitive skin, enriched with calming chamomile and oat extracts. Its mild fragrance provides a soothing bathing experience.",
+    "category": "cleansers"
+  },
+  {
+    "name": "aloe and cucumber face scrub",
+    "price": 1799,
+    "image": "https://example.com/images/aloe-cucumber-face-scrub.jpg",
+    "fragrances": ["aloe", "cucumber"],
+    "brand": "SunCare",
+    "description": "Gently exfoliate your skin with this aloe and cucumber face scrub. The cool, refreshing fragrance makes it perfect for daily use on sensitive skin.",
+    "category": "face care"
+  },
+  {
+    "name": "rose water toner",
+    "price": 1599,
+    "image": "https://example.com/images/rose-water-toner.jpg",
+    "fragrances": ["rose"],
+    "brand": "NaturGlow",
+    "description": "Balance and refresh your skin with this rose water toner. The delicate rose fragrance soothes the senses while reducing redness and irritation.",
+    "category": "body butters & lotions"
+  },
+  {
+    "name": "lavender pillow mist",
+    "price": 1299,
+    "image": "https://example.com/images/lavender-pillow-mist.jpg",
+    "fragrances": ["lavender"],
+    "brand": "NaturGlow",
+    "description": "Spray this lavender pillow mist to promote restful sleep and relaxation. The calming lavender fragrance helps you wind down after a long day.",
+    "category": "aromatherapy"
+  },
+  {
+    "name": "oatmeal moisturizing lotion",
+    "price": 1899,
+    "image": "https://example.com/images/oatmeal-moisturizing-lotion.jpg",
+    "fragrances": ["oat", "milk"],
+    "brand": "SheaDelight",
+    "description": "Deeply hydrating lotion made with oatmeal and milk to soothe dry, itchy skin. Its soft fragrance is perfect for sensitive skin.",
+    "category": "moisturizers"
+  },
+  {
+    "name": "mint cooling body cream",
+    "price": 1599,
+    "image": "https://example.com/images/mint-cooling-foot-cream.jpg",
+    "fragrances": ["peppermint", "eucalyptus"],
+    "brand": "GlowEssence",
+    "description": "A cooling foot cream infused with peppermint and eucalyptus to relieve tired, aching feet. Its invigorating fragrance refreshes and revitalizes.",
+    "category": "body butters & lotions"
+  },
+  {
+    "name": "vanilla body oil",
+    "price": 2999,
+    "image": "https://example.com/images/vanilla-body-oil.jpg",
+    "fragrances": ["vanilla"],
+    "brand": "SunCare",
+    "description": "A luxurious body oil with a warm vanilla fragrance. Locks in moisture for a radiant glow and leaves your skin soft and smooth.",
+    "category": "body butters & lotions"
+  },
+  {
+    "name": "coconut hair and body mist",
+    "price": 1299,
+    "image": "https://example.com/images/coconut-hair-body-mist.jpg",
+    "fragrances": ["coconut"],
+    "brand": "NaturGlow",
+    "description": "A lightweight mist for both hair and body with a refreshing coconut fragrance. Perfect for adding a quick burst of hydration and scent throughout the day.",
+    "category": "serums"
+  },
+  {
+    "name": "citrus body lotion",
+    "price": 1999,
+    "image": "https://example.com/images/citrus-body-lotion.jpg",
+    "fragrances": ["orange", "grapefruit"],
+    "brand": "GlowEssence",
+    "description": "Lightweight body lotion with an invigorating citrus fragrance. Keeps your skin hydrated and energized all day long.",
+    "category": "moisturizers"
+  },
+  {
+    "name": "jasmine hand balm",
+    "price": 1399,
+    "image": "https://example.com/images/jasmine-hand-balm.jpg",
+    "fragrances": ["jasmine"],
+    "brand": "SheaDelight",
+    "description": "Rich and creamy hand balm infused with jasmine extract. Provides intense moisture and a delicate floral fragrance.",
+    "category": "cleansers"
+  },
+  [
+    {
+      "name": "Nivea Nourishing Body Lotion",
+      "price": 1899,
+      "image": "https://example.com/images/nivea-nourishing-body-lotion.jpg",
+      "fragrances": ["almond oil"],
+      "brand": "Nivea",
+      "description": "A deeply nourishing body lotion enriched with almond oil, providing long-lasting hydration for dry skin. It leaves the skin feeling soft and smooth while locking in moisture for up to 48 hours.",
+      "category": "moisturizers"
+    },
+    {
+      "name": "Nivea Soothing Aloe Vera Gel",
+      "price": 1599,
+      "image": "https://example.com/images/nivea-aloe-vera-gel.jpg",
+      "fragrances": ["aloe vera"],
+      "brand": "Nivea",
+      "description": "This soothing aloe vera gel provides instant relief and cooling to irritated skin. It absorbs quickly, leaving no sticky residue, making it ideal for use after sun exposure or shaving.",
+      "category": "serums"
+    },
+    {
+      "name": "Nivea Refreshing Face Wash",
+      "price": 1499,
+      "image": "https://example.com/images/nivea-refreshing-face-wash.jpg",
+      "fragrances": ["lemon", "mint"],
+      "brand": "Nivea",
+      "description": "A refreshing face wash with lemon and mint extracts that gently cleanses the skin, removing impurities and excess oil. Leaves your skin feeling refreshed and revitalized.",
+      "category": "face care"
+    }
+  ]
+]
